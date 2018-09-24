@@ -8,19 +8,19 @@
 	"description" : "Thème de Jinx (2.45).", 
 	"url" : "https://github.com/Mystogan98/ThemeDofus/raw/master/ChaCha2.zip",
 	"previewUrl" : "https://raw.githubusercontent.com/Mystogan98/ThemeDofus/master/chacha2.jpg", 
-	"creationDate" : "22/00/2018", 
+	"creationDate" : "22/01/2018", 
 	"modificationDate" : "22/03/2018"
     },
     { 
 	"author" : "Mystogan", 
 	"name" : "ChaCha", 
 	"keyWords" : "Jinx", 
-	"version" : "0.2", 
+	"version" : "0.3", 
 	"dofusVersion" : "2.48", 
 	"description" : "Thème de Jinx (2.48).", 
 	"url" : "https://github.com/Mystogan98/ThemeDofus/raw/master/ChaCha.zip",
 	"previewUrl" : "https://raw.githubusercontent.com/Mystogan98/ThemeDofus/master/chacha2.jpg", 
-	"creationDate" : "22/00/2018", 
-	"modificationDate" : "22/03/2018"
+	"creationDate" : "22/01/2018", 
+	"modificationDate" : "24/09/2018"
     }
 ]
