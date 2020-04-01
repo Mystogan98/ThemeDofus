@@ -1,14 +1,14 @@
 [ 
     { 
-	"author" : "Mystogan", 
-	"name" : "Jinx Theme", 
-	"keyWords" : "Jinx", 
-	"version" : "0.4", 
-	"dofusVersion" : "2.54", 
-	"description" : "Thème basé sur Jinx (2.54).", 
-	"url" : "https://github.com/Mystogan98/ThemeDofus/raw/master/JinxTheme.zip",
-	"previewUrl" : "https://raw.githubusercontent.com/Mystogan98/ThemeDofus/master/chacha2.jpg", 
-	"creationDate" : "22/01/2018", 
-	"modificationDate" : "02/04/2020"
+		"author" : "Mystogan", 
+		"name" : "Jinx Theme", 
+		"keyWords" : "Jinx", 
+		"version" : "0.4", 
+		"dofusVersion" : "2.54", 
+		"description" : "Thème basé sur Jinx (2.54).", 
+		"url" : "https://github.com/Mystogan98/ThemeDofus/raw/master/JinxTheme.zip",
+		"previewUrl" : "https://raw.githubusercontent.com/Mystogan98/ThemeDofus/master/chacha2.jpg", 
+		"creationDate" : "22/01/2018", 
+		"modificationDate" : "02/04/2020"
     }
 ]
